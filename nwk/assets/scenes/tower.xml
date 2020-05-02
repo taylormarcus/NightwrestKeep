@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+    <name>Kalin's Tower</name>
+    <text><![CDATA[Amidst the outskirts of the Duskwood is the home of the benevolent elderly archmage Kalin. The wizard's home, an old squat rounded battle tower dominates the landscape. Despite the tower's apparent age it is clearly in good repair. The structure is surrounded by a few storage sheds and has a single well-tended garden.]]>
+    </text>
+    <exits>
+        <east/>
+        <north>town</north>
+        <northeast/>
+        <northwest/>
+        <south/>
+        <southeast/>
+        <southwest/>
+        <west/>
+    </exits>
+</scene>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+    <name>Nightwrest Castle</name>
+    <text><![CDATA[Overlooking the village stands the foreboding Nightwrest Castle. The structure consists of five circular towers, connected by fortified walls. Three of these towers directly overlook the town, while the others are positioned towards the lands to the north. A keep is also built into this section of the castle. The central southern tower serves as the castle's gate tower, the main entrance into the courtyard.]]>
+    </text>
+    <exits>
+        <east/>
+        <north/>
+        <northeast/>
+        <northwest/>
+        <south>town</south>
+        <southeast>temple</southeast>
+        <southwest/>
+        <west/>
+    </exits>
+</scene>

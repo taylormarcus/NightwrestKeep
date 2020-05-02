@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+    <name>Temple</name>
+    <text><![CDATA[On the eastern end of Nightwrest is a small walled brick church. Emblazoned over the entrance is the symbol of the Lord of Light and Justice, Rolayan.]]>
+    </text>
+    <exits>
+        <east/>
+        <north/>
+        <northeast/>
+        <northwest>keep</northwest>
+        <south/>
+        <southeast/>
+        <southwest/>
+        <west>town</west>
+    </exits>
+</scene>

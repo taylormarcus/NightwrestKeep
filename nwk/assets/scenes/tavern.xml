@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+    <name>Tavern</name>
+    <text><![CDATA[You find yourself stand outside a rustic tavern. As you casually step within, you find yourself in a spartan though cozy tavern. A warm fire burns invitingly at the hearth. A small group of patrons stand about conversing and drinking. The bartender eyes you warily from across the counter.]]>
+    </text>
+    <exits>
+        <east>town</east>
+        <north/>
+        <northeast/>
+        <northwest/>
+        <south/>
+        <southeast/>
+        <southwest/>
+        <west/>
+    </exits>
+</scene>

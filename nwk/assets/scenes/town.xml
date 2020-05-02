@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scene>
+    <name>Nightwrest Square</name>
+    <text><![CDATA[You find yourself within the town square of the town of Nightwrest. From the center of town you clearly see a small castle which overlooks the town from a densely forested hill. To the west you make out a tavern, a place to recoup and catch up on the local gossip. For the pious, a quaint church can be found to the east. You see an old battle tower to the south which dominates the skyline of the forest known as the Duskwood.]]>
+    </text>
+    <exits>
+        <east>temple</east>
+        <north>keep</north>
+        <northeast/>
+        <northwest/>
+        <south>tower</south>
+        <southeast/>
+        <southwest/>
+        <west>tavern</west>
+    </exits>
+</scene>
